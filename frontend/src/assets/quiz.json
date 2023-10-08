@@ -1,0 +1,36 @@
+{
+    "english":[
+        {
+            "Question":"What is a verb",
+            "options":["An action word", "A name", "A helping word", "name of a place"],
+            "correct_option":"An action word"
+        },
+        {
+            "Question":"What is a Noun",
+            "options":["An action word", "A name", "A helping word", "name of a place"],
+            "correct_option":"An action word"
+        }
+
+    ],
+    "maths":[
+        {
+            "Question":"What is a verb.",
+            "options":["An action word", "A name", "A helping word", "name of a place"],
+            "correct_option":"An action word"
+        }
+    ],
+    "programming":[
+        {
+            "Question":"What is a verb!",
+            "options":["An action word", "A name", "A helping word", "name of a place"],
+            "correct_option":"An action word"
+        }
+    ],
+    "science":[
+        {
+            "Question":"What is a verb?",
+            "options":["An action word", "A name", "A helping word", "name of a place"],
+            "correct_option":"An action word"
+        }
+    ]
+}
